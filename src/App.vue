@@ -1,6 +1,7 @@
 <template>
   <div id="app">
       <h1>这个是子应用应用的页面VUE1</h1>
+      <A></A>
   </div>
 </template>
 
