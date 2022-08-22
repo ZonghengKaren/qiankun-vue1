@@ -1,0 +1,3 @@
+[submodule "qiankun-base"]
+	path = qiankun-base
+	url = https://github.com/ZonghengKaren/qiankun-base.git

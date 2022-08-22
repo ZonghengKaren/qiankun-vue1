@@ -1,16 +1,14 @@
 <template>
   <div id="app">
       <h1>这个是子应用应用的页面VUE1</h1>
-      <A></A>
   </div>
 </template>
 
 <script>
-
-
+import A from 'qiankunBase/src/components/A.vue';
 export default {
-  name: 'App',
-    A: () => import('lib_remote/A'),
+    name: 'App',
+    components: {A}
 }
 </script>
 
